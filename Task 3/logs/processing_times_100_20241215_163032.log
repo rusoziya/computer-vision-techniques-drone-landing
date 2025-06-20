@@ -1,0 +1,230 @@
+2024-12-15 16:30:34 - High Accuracy Match at Frame 0: 100.00%
+2024-12-15 16:30:34 - Frame: 0, Processing Time: 0.1830, Est. Rotation Time: Calculating..., Accuracy: 100.00%
+2024-12-15 16:30:34 - Average processing time per frame at this point: 0.1830 seconds or 5.46 FPS
+2024-12-15 16:30:34 - High Accuracy Match at Frame 100: 94.21%
+2024-12-15 16:30:34 - Frame: 100, Processing Time: 0.2502, Est. Rotation Time: Calculating..., Accuracy: 94.21%
+2024-12-15 16:30:34 - High Accuracy Match at Frame 200: 88.42%
+2024-12-15 16:30:34 - Frame: 200, Processing Time: 0.3070, Est. Rotation Time: Calculating..., Accuracy: 88.42%
+2024-12-15 16:30:34 - High Accuracy Match at Frame 300: 90.07%
+2024-12-15 16:30:34 - Frame: 300, Processing Time: 0.2150, Est. Rotation Time: Calculating..., Accuracy: 90.07%
+2024-12-15 16:30:35 - High Accuracy Match at Frame 400: 91.45%
+2024-12-15 16:30:35 - Frame: 400, Processing Time: 0.2626, Est. Rotation Time: Calculating..., Accuracy: 91.45%
+2024-12-15 16:30:35 - Frame: 500, Processing Time: 0.3486, Est. Rotation Time: Calculating..., Accuracy: 82.87%
+2024-12-15 16:30:35 - Average processing time per frame at this point: 0.2611 seconds or 3.83 FPS
+2024-12-15 16:30:35 - Frame: 600, Processing Time: 0.2421, Est. Rotation Time: Calculating..., Accuracy: 80.41%
+2024-12-15 16:30:36 - Frame: 700, Processing Time: 0.3233, Est. Rotation Time: Calculating..., Accuracy: 75.73%
+2024-12-15 16:30:36 - Frame: 800, Processing Time: 0.2140, Est. Rotation Time: Calculating..., Accuracy: 81.48%
+2024-12-15 16:30:36 - Frame: 900, Processing Time: 0.2986, Est. Rotation Time: Calculating..., Accuracy: 71.23%
+2024-12-15 16:30:37 - Frame: 1000, Processing Time: 0.3586, Est. Rotation Time: Calculating..., Accuracy: 66.01%
+2024-12-15 16:30:37 - Average processing time per frame at this point: 0.2730 seconds or 3.66 FPS
+2024-12-15 16:30:37 - Frame: 1100, Processing Time: 0.2645, Est. Rotation Time: Calculating..., Accuracy: 62.56%
+2024-12-15 16:30:37 - Frame: 1200, Processing Time: 0.3166, Est. Rotation Time: Calculating..., Accuracy: 64.08%
+2024-12-15 16:30:37 - Frame: 1300, Processing Time: 0.2243, Est. Rotation Time: Calculating..., Accuracy: 57.43%
+2024-12-15 16:30:38 - Frame: 1400, Processing Time: 0.2891, Est. Rotation Time: Calculating..., Accuracy: 52.94%
+2024-12-15 16:30:38 - Frame: 1500, Processing Time: 0.4002, Est. Rotation Time: Calculating..., Accuracy: 49.42%
+2024-12-15 16:30:38 - Average processing time per frame at this point: 0.2811 seconds or 3.56 FPS
+2024-12-15 16:30:38 - Frame: 1600, Processing Time: 0.2886, Est. Rotation Time: Calculating..., Accuracy: 48.90%
+2024-12-15 16:30:39 - Frame: 1700, Processing Time: 0.3591, Est. Rotation Time: Calculating..., Accuracy: 43.50%
+2024-12-15 16:30:39 - Frame: 1800, Processing Time: 0.2886, Est. Rotation Time: Calculating..., Accuracy: 32.92%
+2024-12-15 16:30:39 - Frame: 1900, Processing Time: 0.3746, Est. Rotation Time: Calculating..., Accuracy: 43.86%
+2024-12-15 16:30:40 - Frame: 2000, Processing Time: 0.4298, Est. Rotation Time: Calculating..., Accuracy: 39.41%
+2024-12-15 16:30:40 - Average processing time per frame at this point: 0.2971 seconds or 3.37 FPS
+2024-12-15 16:30:40 - Frame: 2100, Processing Time: 0.3396, Est. Rotation Time: Calculating..., Accuracy: 28.07%
+2024-12-15 16:30:40 - Frame: 2200, Processing Time: 0.3851, Est. Rotation Time: Calculating..., Accuracy: 21.79%
+2024-12-15 16:30:41 - Frame: 2300, Processing Time: 0.3116, Est. Rotation Time: Calculating..., Accuracy: 26.35%
+2024-12-15 16:30:41 - Frame: 2400, Processing Time: 0.3714, Est. Rotation Time: Calculating..., Accuracy: 16.34%
+2024-12-15 16:30:42 - Frame: 2500, Processing Time: 0.4318, Est. Rotation Time: Calculating..., Accuracy: 15.12%
+2024-12-15 16:30:42 - Average processing time per frame at this point: 0.3107 seconds or 3.22 FPS
+2024-12-15 16:30:42 - Frame: 2600, Processing Time: 0.3388, Est. Rotation Time: Calculating..., Accuracy: 15.24%
+2024-12-15 16:30:42 - Frame: 2700, Processing Time: 0.4484, Est. Rotation Time: Calculating..., Accuracy: 15.15%
+2024-12-15 16:30:43 - Frame: 2800, Processing Time: 0.3396, Est. Rotation Time: Calculating..., Accuracy: 17.42%
+2024-12-15 16:30:43 - Frame: 2900, Processing Time: 0.4749, Est. Rotation Time: Calculating..., Accuracy: 14.86%
+2024-12-15 16:30:44 - Frame: 3000, Processing Time: 0.5316, Est. Rotation Time: Calculating..., Accuracy: 12.67%
+2024-12-15 16:30:44 - Average processing time per frame at this point: 0.3294 seconds or 3.04 FPS
+2024-12-15 16:30:44 - Frame: 3100, Processing Time: 0.4359, Est. Rotation Time: Calculating..., Accuracy: 11.54%
+2024-12-15 16:30:45 - Frame: 3200, Processing Time: 0.4646, Est. Rotation Time: Calculating..., Accuracy: 12.41%
+2024-12-15 16:30:45 - Frame: 3300, Processing Time: 0.3761, Est. Rotation Time: Calculating..., Accuracy: 12.77%
+2024-12-15 16:30:45 - Frame: 3400, Processing Time: 0.4041, Est. Rotation Time: Calculating..., Accuracy: 11.64%
+2024-12-15 16:30:46 - Frame: 3500, Processing Time: 0.4722, Est. Rotation Time: Calculating..., Accuracy: 10.39%
+2024-12-15 16:30:46 - Average processing time per frame at this point: 0.3434 seconds or 2.91 FPS
+2024-12-15 16:30:46 - Frame: 3600, Processing Time: 0.3848, Est. Rotation Time: Calculating..., Accuracy: 10.00%
+2024-12-15 16:30:47 - Frame: 3700, Processing Time: 0.4785, Est. Rotation Time: Calculating..., Accuracy: 11.85%
+2024-12-15 16:30:47 - Frame: 3800, Processing Time: 0.3871, Est. Rotation Time: Calculating..., Accuracy: 11.26%
+2024-12-15 16:30:48 - Frame: 3900, Processing Time: 0.4591, Est. Rotation Time: Calculating..., Accuracy: 10.26%
+2024-12-15 16:30:48 - Frame: 4000, Processing Time: 0.5212, Est. Rotation Time: Calculating..., Accuracy: 12.03%
+2024-12-15 16:30:48 - Average processing time per frame at this point: 0.3560 seconds or 2.81 FPS
+2024-12-15 16:30:49 - Frame: 4100, Processing Time: 0.3893, Est. Rotation Time: Calculating..., Accuracy: 10.67%
+2024-12-15 16:30:49 - Frame: 4200, Processing Time: 0.4667, Est. Rotation Time: Calculating..., Accuracy: 12.14%
+2024-12-15 16:30:49 - Frame: 4300, Processing Time: 0.3912, Est. Rotation Time: Calculating..., Accuracy: 10.81%
+2024-12-15 16:30:50 - Frame: 4400, Processing Time: 0.4100, Est. Rotation Time: Calculating..., Accuracy: 10.67%
+2024-12-15 16:30:50 - Frame: 4500, Processing Time: 0.5075, Est. Rotation Time: Calculating..., Accuracy: 9.66%
+2024-12-15 16:30:50 - Average processing time per frame at this point: 0.3643 seconds or 2.74 FPS
+2024-12-15 16:30:51 - Frame: 4600, Processing Time: 0.4666, Est. Rotation Time: Calculating..., Accuracy: 10.64%
+2024-12-15 16:30:51 - Frame: 4700, Processing Time: 0.4641, Est. Rotation Time: Calculating..., Accuracy: 10.49%
+2024-12-15 16:30:52 - Frame: 4800, Processing Time: 0.3839, Est. Rotation Time: Calculating..., Accuracy: 11.11%
+2024-12-15 16:30:52 - Frame: 4900, Processing Time: 0.4417, Est. Rotation Time: Calculating..., Accuracy: 10.00%
+2024-12-15 16:30:53 - Frame: 5000, Processing Time: 0.5208, Est. Rotation Time: Calculating..., Accuracy: 12.75%
+2024-12-15 16:30:53 - Average processing time per frame at this point: 0.3733 seconds or 2.68 FPS
+2024-12-15 16:30:53 - Frame: 5100, Processing Time: 0.3951, Est. Rotation Time: Calculating..., Accuracy: 10.34%
+2024-12-15 16:30:53 - Frame: 5200, Processing Time: 0.4511, Est. Rotation Time: Calculating..., Accuracy: 10.27%
+2024-12-15 16:30:54 - Frame: 5300, Processing Time: 0.3579, Est. Rotation Time: Calculating..., Accuracy: 10.14%
+2024-12-15 16:30:54 - Frame: 5400, Processing Time: 0.4143, Est. Rotation Time: Calculating..., Accuracy: 10.83%
+2024-12-15 16:30:55 - Frame: 5500, Processing Time: 0.4689, Est. Rotation Time: Calculating..., Accuracy: 9.80%
+2024-12-15 16:30:55 - Average processing time per frame at this point: 0.3772 seconds or 2.65 FPS
+2024-12-15 16:30:55 - Frame: 5600, Processing Time: 0.3359, Est. Rotation Time: Calculating..., Accuracy: 10.87%
+2024-12-15 16:30:55 - Frame: 5700, Processing Time: 0.4061, Est. Rotation Time: Calculating..., Accuracy: 10.67%
+2024-12-15 16:30:56 - Frame: 5800, Processing Time: 0.3236, Est. Rotation Time: Calculating..., Accuracy: 10.67%
+2024-12-15 16:30:56 - Frame: 5900, Processing Time: 0.3921, Est. Rotation Time: Calculating..., Accuracy: 9.80%
+2024-12-15 16:30:57 - Frame: 6000, Processing Time: 0.4636, Est. Rotation Time: Calculating..., Accuracy: 10.00%
+2024-12-15 16:30:57 - Average processing time per frame at this point: 0.3778 seconds or 2.65 FPS
+2024-12-15 16:30:57 - Frame: 6100, Processing Time: 0.3466, Est. Rotation Time: Calculating..., Accuracy: 10.49%
+2024-12-15 16:30:57 - Frame: 6200, Processing Time: 0.4131, Est. Rotation Time: Calculating..., Accuracy: 9.62%
+2024-12-15 16:30:58 - Frame: 6300, Processing Time: 0.3141, Est. Rotation Time: Calculating..., Accuracy: 10.00%
+2024-12-15 16:30:58 - Frame: 6400, Processing Time: 0.4038, Est. Rotation Time: Calculating..., Accuracy: 10.59%
+2024-12-15 16:30:59 - Frame: 6500, Processing Time: 0.4618, Est. Rotation Time: Calculating..., Accuracy: 10.71%
+2024-12-15 16:30:59 - Average processing time per frame at this point: 0.3786 seconds or 2.64 FPS
+2024-12-15 16:30:59 - Frame: 6600, Processing Time: 0.3507, Est. Rotation Time: Calculating..., Accuracy: 10.14%
+2024-12-15 16:30:59 - Frame: 6700, Processing Time: 0.4181, Est. Rotation Time: Calculating..., Accuracy: 11.69%
+2024-12-15 16:31:00 - Frame: 6800, Processing Time: 0.3526, Est. Rotation Time: Calculating..., Accuracy: 10.59%
+2024-12-15 16:31:00 - Frame: 6900, Processing Time: 0.4177, Est. Rotation Time: Calculating..., Accuracy: 10.00%
+2024-12-15 16:31:01 - Frame: 7000, Processing Time: 0.4937, Est. Rotation Time: Calculating..., Accuracy: 10.96%
+2024-12-15 16:31:01 - Average processing time per frame at this point: 0.3805 seconds or 2.63 FPS
+2024-12-15 16:31:01 - Frame: 7100, Processing Time: 0.3821, Est. Rotation Time: Calculating..., Accuracy: 10.88%
+2024-12-15 16:31:01 - Frame: 7200, Processing Time: 0.4639, Est. Rotation Time: Calculating..., Accuracy: 11.11%
+2024-12-15 16:31:02 - Frame: 7300, Processing Time: 0.3665, Est. Rotation Time: Calculating..., Accuracy: 9.68%
+2024-12-15 16:31:02 - Frame: 7400, Processing Time: 0.3979, Est. Rotation Time: Calculating..., Accuracy: 10.26%
+2024-12-15 16:31:03 - Frame: 7500, Processing Time: 0.5248, Est. Rotation Time: Calculating..., Accuracy: 9.43%
+2024-12-15 16:31:03 - Average processing time per frame at this point: 0.3836 seconds or 2.61 FPS
+2024-12-15 16:31:03 - Frame: 7600, Processing Time: 0.3834, Est. Rotation Time: Calculating..., Accuracy: 11.19%
+2024-12-15 16:31:04 - Frame: 7700, Processing Time: 0.4928, Est. Rotation Time: Calculating..., Accuracy: 12.68%
+2024-12-15 16:31:04 - Frame: 7800, Processing Time: 0.3804, Est. Rotation Time: Calculating..., Accuracy: 11.11%
+2024-12-15 16:31:04 - Frame: 7900, Processing Time: 0.4557, Est. Rotation Time: Calculating..., Accuracy: 11.68%
+2024-12-15 16:31:05 - Frame: 8000, Processing Time: 0.5451, Est. Rotation Time: Calculating..., Accuracy: 9.93%
+2024-12-15 16:31:05 - Average processing time per frame at this point: 0.3878 seconds or 2.58 FPS
+2024-12-15 16:31:05 - Frame: 8100, Processing Time: 0.4101, Est. Rotation Time: Calculating..., Accuracy: 10.64%
+2024-12-15 16:31:06 - Frame: 8200, Processing Time: 0.4675, Est. Rotation Time: Calculating..., Accuracy: 11.94%
+2024-12-15 16:31:06 - Frame: 8300, Processing Time: 0.3866, Est. Rotation Time: Calculating..., Accuracy: 10.67%
+2024-12-15 16:31:07 - Frame: 8400, Processing Time: 0.4665, Est. Rotation Time: Calculating..., Accuracy: 11.26%
+2024-12-15 16:31:07 - Frame: 8500, Processing Time: 0.5844, Est. Rotation Time: Calculating..., Accuracy: 11.27%
+2024-12-15 16:31:07 - Average processing time per frame at this point: 0.3921 seconds or 2.55 FPS
+2024-12-15 16:31:08 - Frame: 8600, Processing Time: 0.4348, Est. Rotation Time: Calculating..., Accuracy: 11.41%
+2024-12-15 16:31:08 - Frame: 8700, Processing Time: 0.5060, Est. Rotation Time: Calculating..., Accuracy: 10.20%
+2024-12-15 16:31:09 - Frame: 8800, Processing Time: 0.3711, Est. Rotation Time: Calculating..., Accuracy: 10.46%
+2024-12-15 16:31:09 - Frame: 8900, Processing Time: 0.4287, Est. Rotation Time: Calculating..., Accuracy: 10.27%
+2024-12-15 16:31:10 - Frame: 9000, Processing Time: 0.6313, Est. Rotation Time: Calculating..., Accuracy: 10.43%
+2024-12-15 16:31:10 - Average processing time per frame at this point: 0.3967 seconds or 2.52 FPS
+2024-12-15 16:31:10 - Frame: 9100, Processing Time: 0.4653, Est. Rotation Time: Calculating..., Accuracy: 12.27%
+2024-12-15 16:31:11 - Frame: 9200, Processing Time: 0.5722, Est. Rotation Time: Calculating..., Accuracy: 10.19%
+2024-12-15 16:31:11 - Frame: 9300, Processing Time: 0.4183, Est. Rotation Time: Calculating..., Accuracy: 11.04%
+2024-12-15 16:31:12 - Frame: 9400, Processing Time: 0.5276, Est. Rotation Time: Calculating..., Accuracy: 9.94%
+2024-12-15 16:31:12 - Frame: 9500, Processing Time: 0.6049, Est. Rotation Time: Calculating..., Accuracy: 11.89%
+2024-12-15 16:31:12 - Average processing time per frame at this point: 0.4030 seconds or 2.48 FPS
+2024-12-15 16:31:13 - Frame: 9600, Processing Time: 0.4522, Est. Rotation Time: Calculating..., Accuracy: 10.46%
+2024-12-15 16:31:13 - Frame: 9700, Processing Time: 0.5209, Est. Rotation Time: Calculating..., Accuracy: 11.94%
+2024-12-15 16:31:14 - Frame: 9800, Processing Time: 0.4505, Est. Rotation Time: Calculating..., Accuracy: 11.11%
+2024-12-15 16:31:14 - Frame: 9900, Processing Time: 0.4581, Est. Rotation Time: Calculating..., Accuracy: 10.96%
+2024-12-15 16:31:15 - Frame: 10000, Processing Time: 0.5944, Est. Rotation Time: Calculating..., Accuracy: 9.74%
+2024-12-15 16:31:15 - Average processing time per frame at this point: 0.4075 seconds or 2.45 FPS
+2024-12-15 16:31:15 - Frame: 10100, Processing Time: 0.4536, Est. Rotation Time: Calculating..., Accuracy: 12.08%
+2024-12-15 16:31:16 - Frame: 10200, Processing Time: 0.5281, Est. Rotation Time: Calculating..., Accuracy: 11.69%
+2024-12-15 16:31:16 - Frame: 10300, Processing Time: 0.4098, Est. Rotation Time: Calculating..., Accuracy: 10.14%
+2024-12-15 16:31:17 - Frame: 10400, Processing Time: 0.4909, Est. Rotation Time: Calculating..., Accuracy: 11.11%
+2024-12-15 16:31:17 - Frame: 10500, Processing Time: 0.5876, Est. Rotation Time: Calculating..., Accuracy: 10.46%
+2024-12-15 16:31:17 - Average processing time per frame at this point: 0.4116 seconds or 2.43 FPS
+2024-12-15 16:31:18 - Frame: 10600, Processing Time: 0.4009, Est. Rotation Time: Calculating..., Accuracy: 9.43%
+2024-12-15 16:31:18 - Frame: 10700, Processing Time: 0.4909, Est. Rotation Time: Calculating..., Accuracy: 10.56%
+2024-12-15 16:31:18 - Frame: 10800, Processing Time: 0.3766, Est. Rotation Time: Calculating..., Accuracy: 11.81%
+2024-12-15 16:31:19 - Frame: 10900, Processing Time: 0.5560, Est. Rotation Time: Calculating..., Accuracy: 20.00%
+2024-12-15 16:31:20 - Frame: 11000, Processing Time: 0.5646, Est. Rotation Time: Calculating..., Accuracy: 17.42%
+2024-12-15 16:31:20 - Average processing time per frame at this point: 0.4146 seconds or 2.41 FPS
+2024-12-15 16:31:20 - Frame: 11100, Processing Time: 0.3815, Est. Rotation Time: Calculating..., Accuracy: 15.95%
+2024-12-15 16:31:20 - Frame: 11200, Processing Time: 0.4759, Est. Rotation Time: Calculating..., Accuracy: 31.61%
+2024-12-15 16:31:21 - Frame: 11300, Processing Time: 0.3300, Est. Rotation Time: Calculating..., Accuracy: 30.38%
+2024-12-15 16:31:21 - Frame: 11400, Processing Time: 0.4452, Est. Rotation Time: Calculating..., Accuracy: 33.12%
+2024-12-15 16:31:22 - Frame: 11500, Processing Time: 0.5423, Est. Rotation Time: Calculating..., Accuracy: 34.36%
+2024-12-15 16:31:22 - Average processing time per frame at this point: 0.4155 seconds or 2.41 FPS
+2024-12-15 16:31:22 - Frame: 11600, Processing Time: 0.3621, Est. Rotation Time: Calculating..., Accuracy: 48.75%
+2024-12-15 16:31:23 - Frame: 11700, Processing Time: 0.4466, Est. Rotation Time: Calculating..., Accuracy: 50.27%
+2024-12-15 16:31:23 - Frame: 11800, Processing Time: 0.3088, Est. Rotation Time: Calculating..., Accuracy: 45.56%
+2024-12-15 16:31:23 - Frame: 11900, Processing Time: 0.4020, Est. Rotation Time: Calculating..., Accuracy: 48.80%
+2024-12-15 16:31:24 - Frame: 12000, Processing Time: 0.4921, Est. Rotation Time: Calculating..., Accuracy: 54.65%
+2024-12-15 16:31:24 - Average processing time per frame at this point: 0.4149 seconds or 2.41 FPS
+2024-12-15 16:31:24 - Frame: 12100, Processing Time: 0.3157, Est. Rotation Time: Calculating..., Accuracy: 56.07%
+2024-12-15 16:31:24 - Frame: 12200, Processing Time: 0.4034, Est. Rotation Time: Calculating..., Accuracy: 62.65%
+2024-12-15 16:31:25 - Frame: 12300, Processing Time: 0.2847, Est. Rotation Time: Calculating..., Accuracy: 59.44%
+2024-12-15 16:31:25 - Frame: 12400, Processing Time: 0.3720, Est. Rotation Time: Calculating..., Accuracy: 62.90%
+2024-12-15 16:31:26 - Frame: 12500, Processing Time: 0.4521, Est. Rotation Time: Calculating..., Accuracy: 62.50%
+2024-12-15 16:31:26 - Average processing time per frame at this point: 0.4130 seconds or 2.42 FPS
+2024-12-15 16:31:26 - Frame: 12600, Processing Time: 0.3112, Est. Rotation Time: Calculating..., Accuracy: 69.90%
+2024-12-15 16:31:26 - Frame: 12700, Processing Time: 0.4273, Est. Rotation Time: Calculating..., Accuracy: 72.41%
+2024-12-15 16:31:27 - Frame: 12800, Processing Time: 0.2792, Est. Rotation Time: Calculating..., Accuracy: 68.28%
+2024-12-15 16:31:27 - High Accuracy Match at Frame 12900: 88.52%
+2024-12-15 16:31:27 - Frame: 12900, Processing Time: 0.3261, Est. Rotation Time: 430.0, Accuracy: 88.52%
+2024-12-15 16:31:27 - Frame: 13000, Processing Time: 0.4520, Est. Rotation Time: 430.0, Accuracy: 80.49%
+2024-12-15 16:31:27 - Average processing time per frame at this point: 0.4109 seconds or 2.43 FPS
+2024-12-15 16:31:28 - High Accuracy Match at Frame 13100: 86.35%
+2024-12-15 16:31:28 - Frame: 13100, Processing Time: 0.2885, Est. Rotation Time: 430.0, Accuracy: 86.35%
+2024-12-15 16:31:28 - High Accuracy Match at Frame 13200: 86.91%
+2024-12-15 16:31:28 - Frame: 13200, Processing Time: 0.3660, Est. Rotation Time: 430.0, Accuracy: 86.91%
+2024-12-15 16:31:28 - High Accuracy Match at Frame 13300: 91.08%
+2024-12-15 16:31:28 - Frame: 13300, Processing Time: 0.2686, Est. Rotation Time: 443.3333333333333, Accuracy: 91.08%
+2024-12-15 16:31:29 - High Accuracy Match at Frame 13400: 94.37%
+2024-12-15 16:31:29 - Frame: 13400, Processing Time: 0.3238, Est. Rotation Time: 446.6666666666667, Accuracy: 94.37%
+2024-12-15 16:31:29 - High Accuracy Match at Frame 13500: 94.48%
+2024-12-15 16:31:29 - Frame: 13500, Processing Time: 0.4498, Est. Rotation Time: 450.0, Accuracy: 94.48%
+2024-12-15 16:31:29 - Average processing time per frame at this point: 0.4083 seconds or 2.45 FPS
+2024-12-15 16:31:29 - High Accuracy Match at Frame 13600: 88.73%
+2024-12-15 16:31:29 - Frame: 13600, Processing Time: 0.2843, Est. Rotation Time: 450.0, Accuracy: 88.73%
+2024-12-15 16:31:30 - High Accuracy Match at Frame 13700: 85.17%
+2024-12-15 16:31:30 - Frame: 13700, Processing Time: 0.4072, Est. Rotation Time: 450.0, Accuracy: 85.17%
+2024-12-15 16:31:30 - High Accuracy Match at Frame 13800: 87.24%
+2024-12-15 16:31:30 - Frame: 13800, Processing Time: 0.2276, Est. Rotation Time: 450.0, Accuracy: 87.24%
+2024-12-15 16:31:30 - Frame: 13900, Processing Time: 0.3267, Est. Rotation Time: 450.0, Accuracy: 75.00%
+2024-12-15 16:31:31 - Frame: 14000, Processing Time: 0.4392, Est. Rotation Time: 450.0, Accuracy: 72.27%
+2024-12-15 16:31:31 - Average processing time per frame at this point: 0.4058 seconds or 2.46 FPS
+2024-12-15 16:31:31 - Frame: 14100, Processing Time: 0.2753, Est. Rotation Time: 450.0, Accuracy: 79.50%
+2024-12-15 16:31:32 - Frame: 14200, Processing Time: 0.4522, Est. Rotation Time: 450.0, Accuracy: 72.20%
+2024-12-15 16:31:32 - Frame: 14300, Processing Time: 0.2788, Est. Rotation Time: 450.0, Accuracy: 67.32%
+2024-12-15 16:31:32 - Frame: 14400, Processing Time: 0.3100, Est. Rotation Time: 450.0, Accuracy: 61.35%
+2024-12-15 16:31:33 - Frame: 14500, Processing Time: 0.4504, Est. Rotation Time: 450.0, Accuracy: 50.79%
+2024-12-15 16:31:33 - Average processing time per frame at this point: 0.4040 seconds or 2.48 FPS
+2024-12-15 16:31:33 - Frame: 14600, Processing Time: 0.2895, Est. Rotation Time: 450.0, Accuracy: 54.97%
+2024-12-15 16:31:33 - Frame: 14700, Processing Time: 0.3300, Est. Rotation Time: 450.0, Accuracy: 52.54%
+2024-12-15 16:31:33 - Frame: 14800, Processing Time: 0.2381, Est. Rotation Time: 450.0, Accuracy: 49.72%
+2024-12-15 16:31:34 - Frame: 14900, Processing Time: 0.3025, Est. Rotation Time: 450.0, Accuracy: 52.33%
+2024-12-15 16:31:34 - Frame: 15000, Processing Time: 0.4480, Est. Rotation Time: 450.0, Accuracy: 47.22%
+2024-12-15 16:31:34 - Average processing time per frame at this point: 0.4012 seconds or 2.49 FPS
+2024-12-15 16:31:34 - Frame: 15100, Processing Time: 0.3107, Est. Rotation Time: 450.0, Accuracy: 40.83%
+2024-12-15 16:31:35 - Frame: 15200, Processing Time: 0.3589, Est. Rotation Time: 450.0, Accuracy: 29.07%
+2024-12-15 16:31:35 - Frame: 15300, Processing Time: 0.2732, Est. Rotation Time: 450.0, Accuracy: 25.93%
+2024-12-15 16:31:35 - Frame: 15400, Processing Time: 0.3832, Est. Rotation Time: 450.0, Accuracy: 17.32%
+2024-12-15 16:31:36 - Frame: 15500, Processing Time: 0.4406, Est. Rotation Time: 450.0, Accuracy: 17.83%
+2024-12-15 16:31:36 - Average processing time per frame at this point: 0.3997 seconds or 2.50 FPS
+2024-12-15 16:31:36 - Frame: 15600, Processing Time: 0.3379, Est. Rotation Time: 450.0, Accuracy: 20.96%
+2024-12-15 16:31:37 - Frame: 15700, Processing Time: 0.3391, Est. Rotation Time: 450.0, Accuracy: 17.61%
+2024-12-15 16:31:37 - Frame: 15800, Processing Time: 0.2831, Est. Rotation Time: 450.0, Accuracy: 14.81%
+2024-12-15 16:31:37 - Frame: 15900, Processing Time: 0.3591, Est. Rotation Time: 450.0, Accuracy: 16.08%
+2024-12-15 16:31:38 - Frame: 16000, Processing Time: 0.4264, Est. Rotation Time: 450.0, Accuracy: 16.34%
+2024-12-15 16:31:38 - Average processing time per frame at this point: 0.3981 seconds or 2.51 FPS
+2024-12-15 16:31:38 - Frame: 16100, Processing Time: 0.3566, Est. Rotation Time: 450.0, Accuracy: 13.12%
+2024-12-15 16:31:38 - Frame: 16200, Processing Time: 0.4173, Est. Rotation Time: 450.0, Accuracy: 15.17%
+2024-12-15 16:31:39 - Frame: 16300, Processing Time: 0.3606, Est. Rotation Time: 450.0, Accuracy: 12.58%
+2024-12-15 16:31:39 - Frame: 16400, Processing Time: 0.4165, Est. Rotation Time: 450.0, Accuracy: 10.97%
+2024-12-15 16:31:40 - Frame: 16500, Processing Time: 0.4561, Est. Rotation Time: 450.0, Accuracy: 10.60%
+2024-12-15 16:31:40 - Average processing time per frame at this point: 0.3982 seconds or 2.51 FPS
+2024-12-15 16:31:40 - Frame: 16600, Processing Time: 0.3860, Est. Rotation Time: 450.0, Accuracy: 12.88%
+2024-12-15 16:31:41 - Frame: 16700, Processing Time: 0.4307, Est. Rotation Time: 450.0, Accuracy: 10.49%
+2024-12-15 16:31:41 - Frame: 16800, Processing Time: 0.3687, Est. Rotation Time: 450.0, Accuracy: 10.81%
+2024-12-15 16:31:41 - Frame: 16900, Processing Time: 0.4126, Est. Rotation Time: 450.0, Accuracy: 12.50%
+2024-12-15 16:31:42 - Frame: 17000, Processing Time: 0.4575, Est. Rotation Time: 450.0, Accuracy: 12.98%
+2024-12-15 16:31:42 - Average processing time per frame at this point: 0.3986 seconds or 2.51 FPS
+2024-12-15 16:31:42 - Frame: 17100, Processing Time: 0.3867, Est. Rotation Time: 450.0, Accuracy: 10.46%
+2024-12-15 16:31:43 - Frame: 17200, Processing Time: 0.4514, Est. Rotation Time: 450.0, Accuracy: 11.26%
+2024-12-15 16:31:43 - Frame: 17300, Processing Time: 0.3476, Est. Rotation Time: 450.0, Accuracy: 10.56%
+2024-12-15 16:31:43 - Frame: 17400, Processing Time: 0.4111, Est. Rotation Time: 450.0, Accuracy: 10.39%
+2024-12-15 16:31:44 - Frame: 17500, Processing Time: 0.4636, Est. Rotation Time: 450.0, Accuracy: 11.26%
+2024-12-15 16:31:44 - Average processing time per frame at this point: 0.3990 seconds or 2.51 FPS
+2024-12-15 16:31:44 - Frame: 17600, Processing Time: 0.3826, Est. Rotation Time: 450.0, Accuracy: 10.46%
+2024-12-15 16:31:45 - Frame: 17700, Processing Time: 0.4271, Est. Rotation Time: 450.0, Accuracy: 11.33%
+2024-12-15 16:31:45 - Frame: 17800, Processing Time: 0.3713, Est. Rotation Time: 450.0, Accuracy: 10.39%
+2024-12-15 16:31:45 - Frame: 17900, Processing Time: 0.4433, Est. Rotation Time: 450.0, Accuracy: 10.39%
