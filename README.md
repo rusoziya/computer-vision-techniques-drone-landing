@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Computer Vision and Sensing Techniques for Autonomous Drone Landing in Space Exploration
 ![ORB_Matching](https://github.com/user-attachments/assets/a1536f23-f220-435b-ad71-cf89fd6a198b)
 
