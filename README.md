@@ -67,7 +67,7 @@ This project focused on developing robust computer vision and sensing algorithms
 ## Acknowledgments
 
 - This project was developed as part of the assessment for the [COMP0241 - Computer Vision and Sensing](https://www.ucl.ac.uk/module-catalogue/modules/computer-vision-and-sensing-COMP0241) module at University College London. 
-- It was a collaborative effort by myself, [@ziyaruso](), and [@lorenzouttini](https://github.com/lorenzouttini).
+- It was a collaborative effort by myself, [@amlansahoo07](), and [@lorenzouttini](https://github.com/lorenzouttini).
 - Special thanks to the teaching team for providing guidance and resources throughout the project.
 
 ## License
